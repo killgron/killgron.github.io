@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog</title>
+		<link>http://killgron.github.io/</link>
+		<description>Recent content on killgron.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-cn</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<atom:link href="http://killgron.github.io/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Homepage</title>
+			<link>http://killgron.github.io/homepage/</link>
+			<pubDate>Sun, 05 Mar 2023 17:04:57 +0800</pubDate>
+			<guid>http://killgron.github.io/homepage/</guid>
+			<description>
+			INFO KILLGRON SKILL STACK  C JAVA PYTHON GOLANG  
+			</description>
+		</item>
+	</channel>
+</rss>
